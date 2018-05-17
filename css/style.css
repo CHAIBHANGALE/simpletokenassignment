@@ -1,0 +1,109 @@
+
+body{
+	padding: 40px;
+}
+
+#profile{
+	color: #6C9BA9;
+}
+
+#InputFirstName{
+	width: 100%;
+	border-color: #D2E3E5;
+	border-width: 2px;
+}
+#InputLastName{
+	width: 100%;
+	border-color: #D2E3E5;
+	border-width: 2px;
+}
+
+#InputDescribe{
+	width: 100%;
+	border-color: #D2E3E5;
+	border-width: 2px;
+}
+
+#InputCompanyName{
+	width: 100%;
+	border-color: #D2E3E5;
+	border-width: 2px;
+}
+
+#InputDesignation{
+	width: 100%;
+	border-color: #D2E3E5;
+	border-width: 2px;
+}
+
+#InputCountry{
+	width: 100%;
+	border-color: #D2E3E5;
+	border-width: 2px;
+}
+
+#datepickers{
+	width: 100%;
+	border-color: #D2E3E5;
+	border-width: 2px;
+}
+
+#Linkedindiv{
+	background-color: #F6F9FA;
+	margin: 10px;
+
+}
+
+
+
+#linkedinpara{
+	color:#597A84;
+	font-size: 14px;
+	
+}
+
+#InputLinkedInurl{
+	border-color:#6C9BA9;
+	border-width: 2px;
+}
+
+#InputInstagramurl{
+	border-color:#6C9BA9;
+	border-width: 2px;
+}
+
+#Instagramdiv{
+	background-color: #F6F9FA;
+	margin: 10px;
+}
+
+
+#buttonSubmit{
+	margin:10px;
+	color: #ffffff;
+	background-color:#E48030;
+	border-color: #B4D1DE;
+	border-width: 2px;
+	font-size: 14px;
+	letter-spacing: 2px;
+	width: 125px;
+}
+
+#buttonCancel{
+	margin: 10px;
+	color: #438BAD;
+	background-color:#FFFFFF;
+	border-color: #B4D1DE;
+	border-width: 2px;
+	font-size: 14px;
+	letter-spacing: 2px;
+	width: 125px;
+}
+
+
+
+
+form label{
+  font-weight:bold;
+  color: #8EB9CE;
+}
